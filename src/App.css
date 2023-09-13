@@ -33,3 +33,9 @@
 .result-block-container .result-block {
   opacity: 1;
 }
+
+.email-warning {
+  margin: 10px;
+  border: 2px solid red;
+  color: red;
+}
